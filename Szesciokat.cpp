@@ -1,4 +1,5 @@
 #include "Szesciokat.hpp"
+#include <cmath>
 
 Szesciokat::Szesciokat(double bok) : bok(bok) {}
 
